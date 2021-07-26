@@ -24,6 +24,6 @@ public class Main {
         // method in sport person class
         sport.learn();
         sport.playSport();
-
+        System.out.println("_________TheEnd__________");
     }
 }
